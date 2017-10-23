@@ -1,0 +1,6 @@
+-- Install nodejs on your machine - https://nodejs.org/en/ 
+-- open windows command prompt
+-- cd /<PATH_TO_APPLICATION_DIRECTORY>
+-- run command : npm install
+-- Add JS , css references in app directory
+-- Run command : grunt
